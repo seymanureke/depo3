@@ -13,7 +13,7 @@ int main() {
 
     srand(time(NULL));
 
-    printf("=== HAYATTA KALMA SIMULATORU ===\n");
+    printf("***HAYATTA KALMA SIMULATORU***\n");
     printf("Komutlar: A (Avlan), S (Siginak Ara), E (Envanter), R (Dinlen), F (Tehlike Dongusu), P (sifreli ilerleme), X (cikis)\n");
 
     do {
